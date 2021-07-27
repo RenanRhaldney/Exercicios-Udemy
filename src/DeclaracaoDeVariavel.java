@@ -5,10 +5,10 @@ public class DeclaracaoDeVariavel {
 		// Criando uma variavel e exibindo.
 		
 		
-		int idade = 26;
+		int idade = 26 + 1;
 		
 		System.out.print(idade);
-		//OBS:para exibir oque está guardado dentro da variavel, utilizando o System.out.print não precisamos utlizar aspas "".
+		//OBS:para exibir oque estï¿½ guardado dentro da variavel, utilizando o System.out.print nï¿½o precisamos utlizar aspas "".
 		
 
 	}
